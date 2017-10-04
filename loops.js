@@ -16,5 +16,3 @@ function whileLoop(number) {
     number--
   }
 }
-
-// whileLoop(4)
