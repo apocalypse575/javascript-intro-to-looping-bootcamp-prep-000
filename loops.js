@@ -11,8 +11,9 @@ return array
 }
 
 function whileLoop(number) {
-  while (x != 0) {
-    console.log(x)
+  while (number) != 0) {
+    console.log(`asdsfdlj ${number}`)
+    x--
   }
 }
 
