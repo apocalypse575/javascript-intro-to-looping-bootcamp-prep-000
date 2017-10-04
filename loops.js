@@ -11,5 +11,4 @@ return array
 }
 
 function whileLoop(number) {
-
 }
