@@ -17,4 +17,4 @@ function whileLoop(number) {
   }
 }
 
-whileLoop(4)
+// whileLoop(4)
