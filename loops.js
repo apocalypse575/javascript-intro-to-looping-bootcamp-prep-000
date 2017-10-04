@@ -11,5 +11,9 @@ return array
 }
 
 function whileLoop(number) {
-  Math.random()
+  while (x != 0) {
+    console.log(x)
+  }
 }
+
+whileLoop(4)
